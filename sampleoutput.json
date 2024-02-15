@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "JuJu Watkins scores 51 of No. 15 USC's 67 points in upset of No. 4 Stanford - Yahoo Sports",
+            "description": "JuJu Watkins is 18 years old and just broke a 35-year-old USC scoring record.",
+            "url": "https://sports.yahoo.com/juju-watkins-scores-51-of-no-15-uscs-67-points-in-upset-of-no-4-stanford-045951464.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/28xh31mYAkbqOuZ_hbEW8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/778437b0-c250-11ee-b6fb-ce8da4580a65",
+            "publishedAt": "2024-02-03T05:17:00Z",
+            "content": "JuJu Watkins was unstoppable on Friday. (AP Photo/Josie Lepe)\r\nJuJu Watkins has looked like a special talent since her first game at No. 15 USC, but she took it to another level on Friday.\r\nThe true … [+1556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "SEC, Big Ten 'advisory group' stands as coded threat to NCAA: Figure it out, or we'll go off ourselves - CBS Sports",
+            "description": "The power conference may well reshape college athletics in their image",
+            "url": "https://www.cbssports.com/college-football/news/sec-big-ten-advisory-group-stands-as-coded-threat-to-ncaa-figure-it-out-or-well-go-off-ourselves/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/02/9cd7b35c-374e-4d0d-ba4d-e4232d4c22c2/thumbnail/1200x675/1133c54f1b0b8da8e5dfe5778cc2ad87/tony-petitti.jpg",
+            "publishedAt": "2024-02-02T22:04:00Z",
+            "content": "The SEC and Big Ten delivered a coded, read-between-the-lines message to college athletics in a 259-word release on Friday: We got this. \r\nEssentially, the two most powerful conferences on the planet… [+4286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Isaac Trotter",
+            "title": "Get set for college basketball's Saturday slate, headlined by top-10 matchups Duke-UNC, Tennessee-Kentucky - 247Sports",
+            "description": "The players in smash spots and the X's and O's that will shape and decide college basketball's monster weekend.",
+            "url": "https://247sports.com/longformarticle/college-basketball-unc-duke-tennessee-kentucky-kansas-jayhawks-houston-uconn-st-johns-mississippi-state-alabama-auburn-mississippi-state-226505245/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/448/248/12248448.jpg",
+            "publishedAt": "2024-02-02T17:28:02Z",
+            "content": "(Photo: Getty)\r\nDon't overlook: Hunter Dickinson's decision-making\r\nHouston's defense brings a different level of hell and forces opposing big men to make the right read in an instant. Dickinson will… [+1523 chars]"
+        }
+    ]
+}
